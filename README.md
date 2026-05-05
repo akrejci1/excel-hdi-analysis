@@ -79,12 +79,6 @@ Pasted immediately as static values. The assignment required ≥ 30 Advanced eco
 
 ---
 
-## Excel Functions Used
-
-`XLOOKUP` · `SORTBY` · `SEQUENCE` · `RANDARRAY` · `CONFIDENCE.T` · `T.TEST` · `HYPERGEOM.DIST` · `LN`
-
----
-
 ## Data Sources
 
 - UNDP Human Development Reports — HDI values per country, 2013–2022
